@@ -25,10 +25,23 @@ header {
 
 }
 .search-box-2 {
+    border: 3px solid black;
+    min-width: 250px;
+    min-height: 25px;
+}
+.login-button-container {
 
 }
 .login-button-2 {
     cursor: pointer;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    width: 80px;
+    min-height: 30px;
+    padding: 3px;
+    box-shadow: black 5px 5px 0px 0px;
+
 
 }
 
@@ -53,7 +66,7 @@ header {
     display: flex;
     border: 2px;
     border: 3px solid black;
-    background-color: aquamarine;
+    background-color: white;
     margin: 15px;
     padding: 10px;
 
@@ -76,13 +89,36 @@ header {
 .i-ninja-5 {
     font-style: italic;
 }
+.like13-button {
+
+}
+.likes-button-13 {
+    cursor: pointer;
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    width: 80px;
+    min-height: 30px;
+    padding: 3px;
+    box-shadow: black 5px 5px 0px 0px;
+}
+.right-frame-a-5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.right-definition-5 {
+    margin-left: 30px;
+
+}
 
 /* definition b 6 (contains second definition entry of ninja) */
 .definition-b-6 {
     display: flex;
     border: 2px;
     border: 3px solid black;
-    background-color: chartreuse;
+    background-color: white;
     margin: 15px;
     padding: 10px;
 
@@ -93,10 +129,31 @@ header {
 .ninja-title-6 {
 
 }
+.likes-button-37 {
+    cursor: pointer;
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    width: 80px;
+    min-height: 30px;
+    padding: 3px;
+    box-shadow: black 5px 5px 0px 0px;
+}
 
 .i-ninja-6 {
     font-style: italic;
 }
+
+.right-frame-b-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right-definition-6 {
+margin-left: 30px;
+}
+
 
 /*! right column container 7 (contains right column of windows - including add definition window & button) */
 .right-column-container-7 {
@@ -106,10 +163,11 @@ header {
 
 /* add definition 8 (contains add definition window & add definition button) */
 .add-definition-8 { 
-    width: 250px;
-    min-height: 150px;
-    background-color: cornflowerblue;
+    min-width: 100px;
+    min-height: 100px;
+    background-color: white;
     padding: 10px;
+margin: 15px;
     border: 3px solid black;
 
 }
@@ -117,7 +175,14 @@ header {
 
 }
 .add-def-button-8 {
-
+    cursor: pointer;
+    text-decoration: none;
+    background-color: darkseagreen;
+    color: black;
+    width: 120px;
+    min-height: 30px;
+    padding: 3px;
+    box-shadow: black 5px 5px 0px 0px;
 }
 
 
