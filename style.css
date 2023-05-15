@@ -20,17 +20,10 @@ header {
     align-items: center;
     margin-bottom: 20px;
 }
-
-.h1-title-2 {
-
-}
 .search-box-2 {
     border: 3px solid black;
     min-width: 250px;
     min-height: 25px;
-}
-.login-button-container {
-
 }
 .login-button-2 {
     cursor: pointer;
@@ -41,8 +34,6 @@ header {
     min-height: 30px;
     padding: 3px;
     box-shadow: black 5px 5px 0px 0px;
-
-
 }
 
 /*! column container 3 (contains the two two columns - left & right) */
@@ -75,9 +66,7 @@ header {
     margin-right: 15px;
 
 }
-.ninja-title-5 {
 
-}
 /*? impacts Definition a & b */
 .noun {
     font-style: italic;
@@ -88,9 +77,6 @@ header {
 }
 .i-ninja-5 {
     font-style: italic;
-}
-.like13-button {
-
 }
 .likes-button-13 {
     cursor: pointer;
@@ -125,9 +111,6 @@ header {
 }
 .left-frame-b-6 {
     margin-right: 15px;
-}
-.ninja-title-6 {
-
 }
 .likes-button-37 {
     cursor: pointer;
@@ -169,9 +152,6 @@ margin-left: 30px;
     padding: 10px;
 margin: 15px;
     border: 3px solid black;
-
-}
-.add-def-container-8 {
 
 }
 .add-def-button-8 {
