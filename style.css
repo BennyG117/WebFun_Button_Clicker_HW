@@ -7,45 +7,118 @@
 
 /*! full page container 1(contains all the following divs) */
 .full-page-container-1 {
-
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/* nav bar container 2 */
-.nav-bar-2 {
-
+/* header aka: nav bar container 2 */
+header {
+    background-color: lightslategray;
+    min-width: 800px;
+    min-height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 20px;
 }
 
+.h1-title-2 {
+
+}
+.search-box-2 {
+
+}
+.login-button-2 {
+    cursor: pointer;
+
+}
 
 /*! column container 3 (contains the two two columns - left & right) */
 .column-container-3 {
-
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    min-width: 1000px;
+    min-height: 650px;
 }
 
 /* left column container 4 (includes definition a & b windows)  */
 .left-column-container-4 {
-
+    min-height: 600px;
+    min-width: 450px;
+    margin-right: 25px;
 }
 
 /* definition a 5 (contains first definition entry of ninja) */
 .definition-a-5 {
+    display: flex;
+    border: 2px;
+    border: 3px solid black;
+    background-color: aquamarine;
+    margin: 15px;
+    padding: 10px;
 
+}
+.left-frame-a-5 {
+    margin-right: 15px;
+
+}
+.ninja-title-5 {
+
+}
+/*? impacts Definition a & b */
+.noun {
+    font-style: italic;
+}
+/*? impacts Definition a & b */
+.plural {
+    display: flex;
+}
+.i-ninja-5 {
+    font-style: italic;
 }
 
 /* definition b 6 (contains second definition entry of ninja) */
 .definition-b-6 {
+    display: flex;
+    border: 2px;
+    border: 3px solid black;
+    background-color: chartreuse;
+    margin: 15px;
+    padding: 10px;
 
+}
+.left-frame-b-6 {
+    margin-right: 15px;
+}
+.ninja-title-6 {
+
+}
+
+.i-ninja-6 {
+    font-style: italic;
 }
 
 /*! right column container 7 (contains right column of windows - including add definition window & button) */
 .right-column-container-7 {
+    justify-content: center;
 
 }
 
 /* add definition 8 (contains add definition window & add definition button) */
 .add-definition-8 { 
+    width: 250px;
+    min-height: 150px;
+    background-color: cornflowerblue;
+    padding: 10px;
+    border: 3px solid black;
 
 }
+.add-def-container-8 {
 
+}
+.add-def-button-8 {
+
+}
 
 
 
